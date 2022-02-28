@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin:auto;
+    background-color: black;
+    color:white;
+    
+}
+
+h1,p{
+    margin:10px;
+    text-align: center;
+    
+}
+
+p{
+    font-size: large;
+    font-weight: 200;
+}
+
+
+#pictures{
+    text-align: center;
+    border-radius:5px;
+    margin:5px;
+}
+
+.img{
+    width:150px;
+    height:200px;
+}
+
+
+
+#scoreJoueur,
+#scoreRobot{
+    text-align: center;
+}
+
+
+
+
+
+
